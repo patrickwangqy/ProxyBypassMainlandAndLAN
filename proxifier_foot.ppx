@@ -1,0 +1,6 @@
+    <Rule enabled="true">
+      <Name>Default</Name>
+      <Action type="Proxy">101</Action>
+    </Rule>
+  </RuleList>
+</ProxifierProfile>
